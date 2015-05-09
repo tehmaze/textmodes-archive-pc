@@ -1,0 +1,13 @@
+# Backup files
+*.bak
+
+# Index files
+00_index.txt
+
+# Integrity files
+*.sfv
+
+# Editor files
+*~
+*.swp
+*.swo
